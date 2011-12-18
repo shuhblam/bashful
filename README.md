@@ -1,6 +1,9 @@
 # Bashful
-  just a place for me to share some simple bash files that aid me along the way...
+
+  share useful bash files that aid in setup of any...
 
 ## controlToCommand
 
-  move control key to command key for less muscle memory frustration when running linux through virtual box
+  move control key to command key
+  
+  less muscle memory frustration when running linux through virtual box while using
