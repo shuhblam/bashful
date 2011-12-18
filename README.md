@@ -6,4 +6,4 @@
 
   move control key to command key
   
-  less muscle memory frustration when running linux through virtual box while using
+    -less muscle memory frustration when running linux through virtual box while using
